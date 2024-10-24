@@ -1,5 +1,5 @@
 body{
-    text-align: center;
+    text-align: left;
     margin: 0;
     background-color: #c2f9e7;
     display: flex;
@@ -55,5 +55,5 @@ button{
 }
 
 .equal{
-    width: calc(50% - 10px);
+    width: calc(50%-10px);
 }
