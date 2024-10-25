@@ -17,7 +17,10 @@ h1{
 
 #calculator{
     max-width: 360px;
-    background-color: #ffd000;
+    border-radius: 40px;
+    background: #a8caff;
+    box-shadow: inset 8px 8px 16px #8facd9,
+            inset -8px -8px 16px #c1e8ff;
     padding: 20px;
     border-radius: 10px;
 }
