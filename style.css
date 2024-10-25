@@ -1,7 +1,8 @@
 body{
     text-align: left;
     margin: 0;
-    background-color: #c2f9e7;
+    background: rgb(0,167,219);
+    background: linear-gradient(90deg, rgba(0,167,219,1) 32%, rgba(0,255,252,1) 93%);
     display: flex;
     flex-direction: column;
     justify-content: center;
